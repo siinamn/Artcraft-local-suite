@@ -1,0 +1,28 @@
+{
+  "name": "artcraft-local-suite",
+  "version": "1.0.0",
+  "description": "Local WebAssembly host & launcher for ArtCraft creative applications.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "artcraft",
+    "wasm",
+    "webassembly",
+    "rust",
+    "wsl",
+    "photocraft",
+    "vectorcraft",
+    "filmcraft"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
