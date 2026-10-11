@@ -48,7 +48,7 @@ The launcher monitors and manages the following creative tools:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/artcraft-local-suite.git
+git clone https://github.com/siinamn/artcraft-local-suite.git
 cd artcraft-local-suite
 ```
 
